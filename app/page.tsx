@@ -19,9 +19,9 @@ export default async function Index() {
             Review the Hackathon Documentation
           </Checkbox>
           <div className="px-8">
-            <p>Before you start, it's important to understand the riles, guidelines and expectations of the hackathon. Please go through the comprehensive documentation to get all the necessary information, including:</p>
+            <p>Before you start, it's important to understand the rules, guidelines and expectations of the hackathon. Please go through the comprehensive documentation to get all the necessary information, including:</p>
             <li>An overview of the hackathon</li>
-            <li>Detailed problem statement for each role.</li>
+            <li>Roles and Responsibilities for each role.</li>
             <li>Instructions for the submission process.</li>
             <a className="underline text-blue-600 hover:text-blue-800 visited:text-purple-600" href="https://stellax-technologies.gitbook.io/stellax-hack">Read the Documentation Here</a>
           </div>
