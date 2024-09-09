@@ -27,7 +27,7 @@ export default async function Index() {
           </div>
           <Checkbox value="register">Register for the Hackathon</Checkbox>
           <div className="px-8">
-            <li>To Participate, you need to register throught our dedicated GitHub repository. Follow the registration instructions to sign up for your prferred role.</li>
+            <li>To Participate, you need to register through our dedicated GitHub repository. Follow the registration instructions to sign up for your preferred role.</li>
             <li>Registration will give you access to the problem statements and the necessary repositories.</li>
             <li>Make sure your GitHub username is correct, as this will be used for evaluation.</li>
             <a className="underline text-blue-600 hover:text-blue-800 visited:text-purple-600" href="https://github.com/stellax-hackathon/registration.git">Register Here</a>
